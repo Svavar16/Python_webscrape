@@ -33,3 +33,6 @@ for item in image:
 
 # and then we close the selenium, or it's driver
 driver.close()
+
+# now here we could do something more, have it return the array or something
+# so this could easily be implemented on, lets day a django project
