@@ -12,3 +12,7 @@ pip install selenium
 pip install bs4
 
 then we get the information from the website
+here we will get the src of the images on artstation.com
+
+and then we just simply get the src of the images and print them out.
+this could be used for a website, to get some random images to use.
